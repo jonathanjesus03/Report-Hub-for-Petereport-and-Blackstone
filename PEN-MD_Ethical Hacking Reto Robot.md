@@ -38,7 +38,7 @@ Exploración del archivo "robots.txt": Se confirmó la existencia del archivo "r
 
 Estos hallazgos iniciales sentaron las bases para una exploración más exhaustiva y la identificación de vulnerabilidades específicas, las cuales fueron posteriormente tratadas y aprovechadas con el propósito de mejorar la seguridad y comprender mejor la máquina "Robot".
 
-
+![Mapa](image/robotMapa.png)
 
 **AUTOR DEL REPORTE : JONATHAN JESUS JACINTO BADILLO**
 
