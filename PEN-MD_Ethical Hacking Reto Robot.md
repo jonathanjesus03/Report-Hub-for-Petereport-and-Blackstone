@@ -1,12 +1,10 @@
-
 ---
-title: "Ethical Hacking Reto Robot"
-product: "Robot"
-author: ["PeTeReport Tool", "Report ID: PEN-DOC-202310162356"]
-date: "16-10-2023"
+title: "Informe de Pentesting - Reto Robot"
+author: "HackerMentor Team"
+date: "16 de Octubre de 2023"
 subject: "Pentest Report"
 subtitle: "PEN-DOC-202310162356"
-website: https://github.com/1modm/petereport
+website: "https://github.com/1modm/petereport"
 ---
 
 # Project Overview
