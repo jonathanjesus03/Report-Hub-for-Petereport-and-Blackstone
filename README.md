@@ -4,7 +4,7 @@
 
 ## Informes Disponibles
 
-- [Informe de Auditoría en Máquina Virtual "Hacker Kid" (PDF)](/Jonathan_Jacinto_Hacker Kid.pdf)
+- [Informe de Auditoría en Máquina Virtual "Hacker Kid" (PDF)](/Jonathan_Jacinto_Hacker)
     - *Descripción*: Informe en formato PDF generado a partir de auditoría en la máquina virtual "Hacker Kid".
 
 - [Informe de Auditoría en Máquina Virtual "Mr. Robot" (MD)](/PEN-MD_Ethical Hacking Reto Robot.md)
