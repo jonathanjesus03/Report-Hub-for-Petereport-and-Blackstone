@@ -40,7 +40,7 @@ Estos hallazgos iniciales sentaron las bases para una exploración más exhausti
 
 ## Summary of Findings Identified
 
-<iframe src="https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone/blob/d274a59870a34c2c6b38b82b15077b5917f31d53/grafico.html" width="800" height="600"></iframe>
+<iframe src="https://raw.githubusercontent.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone/d274a59870a34c2c6b38b82b15077b5917f31d53/grafico.html" width="800" height="600"></iframe>
 
 
 | Prioridad | Vulnerabilidad                                            |
