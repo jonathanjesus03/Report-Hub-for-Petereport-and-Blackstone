@@ -12,11 +12,13 @@ website: "https://github.com/1modm/petereport"
 
 ## Description
 
-¿Un gestor de contenidos Wordpress y uso de credenciales débiles? 
+![mrrobot](image/mrrobot.png)
 
-Una muy mala combinación.
+La máquina virtual ‘Robot’ es un desafío de seguridad inspirado en la serie de televisión ‘Mr. Robot.’ En este emocionante reto, los alumnos de HackerMentor se enfrentarán a un entorno en el que se simula una configuración de WordPress con credenciales débiles. Esta combinación representa una vulnerabilidad común en el mundo real y pone a prueba las habilidades de los participantes en la identificación y mitigación de amenazas de seguridad.
 
-Basado en el programa Mr. Robot, un nuevo reto para los alumnos de HackerMentor el cual se enfrentan a una de las ultimas maquina virtuales Robot.
+Los alumnos deberán demostrar su destreza en la detección de vulnerabilidades, la explotación de debilidades y la implementación de soluciones efectivas para proteger un sistema de ataques cibernéticos. En un ambiente controlado y ético, tendrán la oportunidad de aplicar sus conocimientos en seguridad informática para superar este desafío inspirado en ‘Mr. Robot.’
+
+Este escenario ofrece una valiosa experiencia en seguridad informática y resalta la importancia de proteger las plataformas de gestión de contenidos como WordPress contra amenazas cibernéticas. Los participantes deberán superar obstáculos, aprender nuevas técnicas y fortalecer sus habilidades como futuros profesionales de la seguridad cibernética.
 
 # Executive Summary
 
