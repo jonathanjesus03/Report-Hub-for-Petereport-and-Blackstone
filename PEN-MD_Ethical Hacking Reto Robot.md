@@ -433,7 +433,7 @@ Versions
 
 Linux ubuntu 5.12.0 #2 SMP Aug 18 14:17:41 JST 2023 x86_64 x86_64 x86_64 GNU/Linux
 
-![puertos](image/images.jpeg)
+![puertos](image/images.jpg)
 
 
 
