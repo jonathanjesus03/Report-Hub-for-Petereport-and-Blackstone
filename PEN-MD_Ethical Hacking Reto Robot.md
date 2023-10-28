@@ -1,6 +1,7 @@
 ---
-title: "Informe de Pentesting - Reto Robot"
-author: "HackerMentor Team"
+title: "Ethical Hacking Reto Robot"
+product: "Robot"
+author: "Jonathan Jesus Jacinto Badillo"
 date: "16 de Octubre de 2023"
 subject: "Pentest Report"
 subtitle: "PEN-DOC-202310162356"
