@@ -4,10 +4,10 @@
 
 ## Informes Disponibles
 
-- [Informe de Auditoría en Máquina Virtual "Hacker Kid" (PDF)](/Jonathan_Jacinto_Hacker)
+- [Informe de Auditoría en Máquina Virtual "Hacker Kid" (PDF)](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone/blob/b227fdc7cad9c9fda5fe896261c0055ad00c1e91/Jonathan_Jacinto_Hacker%20Kid.pdf)
     - *Descripción*: Informe en formato PDF generado a partir de auditoría en la máquina virtual "Hacker Kid".
 
-- [Informe de Auditoría en Máquina Virtual "Mr. Robot" (MD)](/PEN-MD_Ethical Hacking Reto Robot.md)
+- [Informe de Auditoría en Máquina Virtual "Mr. Robot" (MD)](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone/blob/0e01be953fbc1094cced63e3e1e1a50bb6f4999d/PEN-MD_Ethical%20Hacking%20Reto%20Robot.md)
     - *Descripción*: Una versión en formato Markdown del informe en la máquina virtual "Mr. Robot".
 
 - [Informe de Auditoría en Máquina Virtual "Mr. Robot" (HTML)](/index.html)
