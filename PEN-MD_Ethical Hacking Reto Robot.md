@@ -12,7 +12,7 @@ website: "https://github.com/1modm/petereport"
 
 ## Description
 
-![mrrobot](image/mrrobot.png)
+![mrrobot](image/mrrobot.jpeg)
 
 La máquina virtual ‘Robot’ es un desafío de seguridad inspirado en la serie de televisión ‘Mr. Robot.’ En este emocionante reto, los alumnos de HackerMentor se enfrentarán a un entorno en el que se simula una configuración de WordPress con credenciales débiles. Esta combinación representa una vulnerabilidad común en el mundo real y pone a prueba las habilidades de los participantes en la identificación y mitigación de amenazas de seguridad.
 
