@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://c.wallhere.com/photos/30/24/Linux_Kali_Linux_NetHunter_Kali_Linux-136754.jpg!d" alt="Imagen de Cabecera">
+  <img src="https://blog.hackmetrix.com/wp-content/uploads/2023/02/%C2%BFQue-es-el-analisis-de-malware-y-por-que-es-importante_-1.png"  width="1000" height="500">
 </div>
 
 ## 📋 Informes Disponibles
